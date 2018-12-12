@@ -2,7 +2,7 @@
 
 Laravel Mix is a tool for compiling and optimizing assets in a Laravel app. It's similar to a build tool like gulp, Grunt and such like. it's specific to Laravel but can also be used externally as an npm package. Laravel Mix covered 80% of Webpack's use case to make compiling assets easier. In a nutshell, Laravel Mix compiles, minifies and stores your assets in your application's public folder for easy reference.
 
-[View tutorial](#)
+[View tutorial](https://pusher.com/tutorials/getting-started-laravel-mix-frontend)
 
 ## Getting Started
 
